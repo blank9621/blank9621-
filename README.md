@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **[Your Name]**, a Computer Engineering student passionate about programming, problem solving, and building efficient software.  
+I'm **Ali Kermani**, a Computer Engineering student passionate about programming, problem solving, and building efficient software.  
 
 ## 🚀 About Me
 - 🎓 Computer Engineering student  
@@ -18,10 +18,11 @@ I'm **[Your Name]**, a Computer Engineering student passionate about programming
   - Object-Oriented Programming  
   - Competitive Programming  
   - Software Development  
-
+  - Cooking
+  - Gameing
+    
 ## 📫 Connect with Me
-- GitHub: [your-username](https://github.com/your-username)  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+- Telegram id : **AK_4848**  
 
 ---
 

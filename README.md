@@ -11,7 +11,6 @@ I'm **Ali Kermani**, a Computer Engineering student passionate about programming
 ## 🛠️ Skills
 - **Languages:**  
   - C++ (Advanced)  
-  - Java (Intermediate)  
   - Python (Beginner/Intermediate)  
 
 - **Other Interests:**  
